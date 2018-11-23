@@ -4,7 +4,7 @@ Java-MAVEN-JENKINS-TOMCAT-Cloud
 Now connected from a different EC2 instance to Github
 
 Established connection with Jenkins
-
+Modifying to test SCM polling in Jenkins
 
 
 
